@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    background-image: url(../img/painting-mountain-lake-with-mountain-background_188544-9126.avif);
+}
+.conta{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+}
+.box{
+
+    text-align: center;
+    margin-top: 80px;
+    width: 450px;
+    height: 450px;
+    border: 3px solid white;
+    border-radius: 15px;
+    background: local;
+}
+.box h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#form input{
+    
+    margin-top: 30px;
+    width: 300px;
+    height: 35px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    border: 1px solid black;
+    padding-left: 10px;
+} 
+#form button{
+    border: 1px solid black;
+    border-radius: 14px;
+    margin-top: 30px;
+    width: 300px;
+    height: 45px;
+} 
